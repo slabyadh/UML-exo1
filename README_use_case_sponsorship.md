@@ -18,7 +18,10 @@ Une fois le compte créé par le filleul en suivant le lien envoyé par le clien
 4. système: créé le compte du filleul et envoi la récompense au client et au filleul
 
 ### Scénario Alternatif:
-
+1. système: propose un lien de parrainnage au client
+2. client: accepte le lien de parrainage
+3. filleul: demande la création de son sompte via le lien de parrainnage
+4. système: créé le compte du filleul et envoi la récompense au client et au filleul
 
 ### Scénario Erreur:
 1. client: demande le lien de parrainnage au système
